@@ -22,7 +22,7 @@
     "@types/express": "^4.17.3",
     "@types/node": "^13.9.0",
     "async-redis": "^1.1.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bluebird": "^3.7.2",
     "cookie-parser": "^1.4.4",
     "dotenv": "^8.2.0",
